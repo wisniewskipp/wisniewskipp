@@ -1,6 +1,6 @@
 ### Hi there 👋 🚀🚀🚀
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />dev/)
 
 🔭 I’m currently working in inSTREAMLY, top-notch polish technology startup 🏆
 🌱 I’m currently learning Vue.js 🤓
