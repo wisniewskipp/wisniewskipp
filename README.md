@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Piotr, a Developer 🚀 from Poland.
+## Hi, I'm Piotr, a JavaScript developer 🚀 from Poland.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -12,13 +12,13 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about personal stuff:**
 
-- 👨🏽‍💻 I’m currently working in [inSTREAMLY](https://instreamly.com), top polish technology startup;
-- 🌱 I’m currently learning Vue and Gatsby; 
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in aviation engineering;
-- 📫 How to reach me: wisniewskipp@gmail.com;
+- 👨🏽‍💻 I’m currently working in [inSTREAMLY](https://instreamly.com), top polish technology startup
+- 🌱 I’m currently learning Vue and Gatsby
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I have a degree in aviation engineering
+- 📫 How to reach me: wisniewskipp@gmail.com
 
 **Languages and Tools:** 
 
@@ -37,8 +37,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svgg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/semaphoreci/semaphoreci-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 </p>
